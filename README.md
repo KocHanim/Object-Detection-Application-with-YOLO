@@ -20,7 +20,7 @@ Customisable Colours: Instead of different colours for each object, fixed colour
 Open Source and MIT Licence: The project is open source and licensed with the MIT Licence. This allows the project to be freely used and contributed to.
 --------------------------------------------------------------------------------------------------
 ✓ Usage: 
-You can use the model for object detection or experiment with the model for further refinement.
+You can use the model for object detection or experiment with the model for further refinement :)
 --------------------------------------------------------------------------------------------------
 ✓ Requirements: 
 Python (3.x)
