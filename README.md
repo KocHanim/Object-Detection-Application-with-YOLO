@@ -25,7 +25,7 @@ You can use the model for object detection or experiment with the model for furt
 ✓ Requirements: 
 Python (3.x)
 OpenCV (cv2)
-YOLO model and YOLOv4 weight files
+YOLO model and YOLOv3 weight files
 --------------------------------------------------------------------------------------------------
 ✓ Contributions: 
 Contributions and enhancements to the project are welcome. Feel free to fork and submit pull requests. 
