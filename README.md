@@ -1,4 +1,4 @@
-# Object-Detection-Application-with-YOLO
+# Object-Detection-Application-with-YOLO 
 This project uses the YOLO (You Only Look Once) object detection model to detect objects from image or video streams.
 --------------------------------------------------------------------------------------------------
 ✓ Project Description: 
